@@ -19,6 +19,7 @@
 	</div>
 </body>
 <footer>
+<p>By creating an account, you agree to the terms & conditions and privacy policy of our service</p>
 </footer>
 <script  type="module">
 	console.log("HERE");
